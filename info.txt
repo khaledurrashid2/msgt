@@ -1,0 +1,6 @@
+This is my SECOND github project inside the account khaledurrashid2 
+
+- folder name 'm s gt'
+
+Created on 04 January 2026
+  following the video: https://web.programming-hero.com/web-13/video/web-13-3-4-vs-code-terminal-to-set-basic-github
